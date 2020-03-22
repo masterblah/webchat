@@ -32,7 +32,7 @@ window.addEventListener('load', () => {
       // the id/element dom element that will hold "our" video
       localVideoEl: 'local-video',
       // the id/element dom element that will hold remote videos
-      remoteVideosEl: 'remote-videos',
+      remoteVideosEl: '',
       // immediately ask for camera access
       autoRequestMedia: true,
       debug: true,
